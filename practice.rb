@@ -1,1 +1,1 @@
-puts("Denzo"[0])
+puts("Stagnant"[0, 3])
